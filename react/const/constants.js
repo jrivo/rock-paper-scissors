@@ -1,0 +1,1 @@
+export const SERVER_ADDRESS = "http://fauques.freeboxos.fr:3000";
